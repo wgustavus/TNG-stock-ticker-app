@@ -1,2 +1,7 @@
+.gitignore
 pythonenv/
 .env
+.venv/
+.vscode/
+my-work/.env
+
