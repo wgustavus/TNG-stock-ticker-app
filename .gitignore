@@ -2,6 +2,7 @@
 pythonenv/
 .env
 .venv/
+.venv*
 .vscode/
 my-work/.env
 
